@@ -28,3 +28,5 @@ To design and develop a platform where businesses can publish food donations and
 ## Current Status
 - Week 1: Project definition, initial research, and repository setup.
 - Week 2: Requirements engineering, scope definition, user stories, and GitHub issues tracking.
+* Week 3: Architecture design, database schema, and technology stack selection.
+* Week 4: Full-stack implementation with React, Express, and PostgreSQL.
